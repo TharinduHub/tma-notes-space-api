@@ -3,4 +3,11 @@
 # dependencies
 /node_modules
 
+# production
+/build
+
 credentials.json
+
+# misc
+.env
+prod-env.yaml
